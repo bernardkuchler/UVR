@@ -1,2 +1,4 @@
 # UVR
 UVR vaja 10
+
+NIC PAMETNEGA
